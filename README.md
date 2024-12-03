@@ -23,7 +23,7 @@ Provide instructions on how to get a copy of your project up and running on a lo
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone https://github.com/blacksnowmartin/Bano-Marble-Game
 
 # Navigate to the project directory
 cd MarbleGame
